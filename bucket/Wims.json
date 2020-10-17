@@ -15,8 +15,8 @@
         ]
     ],
     "checkver": {
-        "url": "https://api.github.com/repos/garyng/wims/releases/latest",
-        "jsonpath": "$.name"
+        "url": "https://api.github.com/repos/garyng/wims/releases",
+        "jsonpath": "$[0].name"
     },
     "autoupdate": {
         "url": "https://github.com/garyng/Wims/releases/download/$version/Wims-$version.zip",
