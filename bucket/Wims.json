@@ -1,12 +1,12 @@
 {
-    "version": "0.3.0-alpha.5",
+    "version": "0.3.0",
     "description": "What is my shortcut?",
     "homepage": "https://github.com/garyng/Wims",
     "license": {
         "identifier": "Freeware"
     },
-    "url": "https://github.com/garyng/Wims/releases/download/0.3.0-alpha.5/Wims-0.3.0-alpha.5.zip",
-    "hash": "ccad3a7abc6c6ca52e0dd6c81e2db4cd7e0f2b4de62d00320934b7c6598df26e",
+    "url": "https://github.com/garyng/Wims/releases/download/0.3.0/Wims-0.3.0.zip",
+    "hash": "89b343f911620c2ec092f03c7c18136a170484bbe7759f10b4476a7503f53ba3",
     "bin": "Wims.exe",
     "shortcuts": [
         [
